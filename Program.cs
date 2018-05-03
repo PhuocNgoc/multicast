@@ -9,7 +9,7 @@ namespace MyMulticasting
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hi guys, this is an example about IP Multicasting.");
+            Console.WriteLine("Hi, this is an example about IP Multicasting.");
             Console.WriteLine("Type 'send' to send a message to the group");
             Console.WriteLine("Type 'receive' to receive a message from the group");
             Console.Write("So, what is your command? (send/receive): ");
